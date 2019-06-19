@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/pnm/static/css/main.9915695b.chunk.css",
+    "main.js": "/pnm/static/js/main.d9128fb3.chunk.js",
+    "main.js.map": "/pnm/static/js/main.d9128fb3.chunk.js.map",
+    "runtime~main.js": "/pnm/static/js/runtime~main.74b69355.js",
+    "runtime~main.js.map": "/pnm/static/js/runtime~main.74b69355.js.map",
+    "static/css/2.9cfbc6ce.chunk.css": "/pnm/static/css/2.9cfbc6ce.chunk.css",
+    "static/js/2.ec89b45f.chunk.js": "/pnm/static/js/2.ec89b45f.chunk.js",
+    "static/js/2.ec89b45f.chunk.js.map": "/pnm/static/js/2.ec89b45f.chunk.js.map",
+    "index.html": "/pnm/index.html",
+    "precache-manifest.b2b6c7cb92e90ca58f157f8e6476a079.js": "/pnm/precache-manifest.b2b6c7cb92e90ca58f157f8e6476a079.js",
+    "service-worker.js": "/pnm/service-worker.js",
+    "static/css/2.9cfbc6ce.chunk.css.map": "/pnm/static/css/2.9cfbc6ce.chunk.css.map",
+    "static/css/main.9915695b.chunk.css.map": "/pnm/static/css/main.9915695b.chunk.css.map",
+    "static/media/04.jpg": "/pnm/static/media/04.541539c2.jpg",
+    "static/media/iconfont.css": "/pnm/static/media/iconfont.e0000474.eot"
+  }
+}
